@@ -3,7 +3,7 @@ published: false
 ---
 ## Second Post....
 
-This is to be my second post abot how im lerning a million thing at once.
+This is to be my second post about how im learning a million thing at once.
 This is lame.
 
 Instead I will set out a plan....
