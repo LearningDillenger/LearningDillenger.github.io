@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-At 30 years old I decided to pull together what little I know abotu computing and attempt to move into security.
+At 30 years old I decided to pull together what little I know about computing and attempt to move into security.
 
 ### More Information
 
